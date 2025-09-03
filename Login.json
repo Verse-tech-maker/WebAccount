@@ -1,0 +1,36 @@
+[
+  {
+    "username": "VerseGalaxy",
+    "password": "123",
+    "role": "admin"
+  },
+  {
+    "username": "vipuser",
+    "password": "vippass",
+    "role": "vip"
+  },
+  {
+    "username": "owner1",
+    "password": "ownerpass",
+    "role": "owner"
+  },
+  {
+    "username": "tkVip",
+    "password": "Tkjir",
+    "role": "Tangan Kanan"
+  },
+  {
+    "username": "partner",
+    "password": "pt12",
+    "role": "partner"
+  },
+    "username": "reseller1",
+    "password": "resellerpass",
+    "role": "reseller"
+  },
+  {
+    "username": "member1",
+    "password": "memberpass",
+    "role": "member"
+  }
+]
