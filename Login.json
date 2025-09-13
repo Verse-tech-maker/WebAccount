@@ -23,5 +23,13 @@
     "username": "member1",
     "password": "memberpass",
     "role": "member"
+  },
+  {
+    "username": "Danzvorever",
+    "password": "DanzvoreverYsh12",
+    "role": "vip",
+    "expiry": "permanent",
+    "createdBy": "Notdevgwmah",
+    "createdAt": 1757763426194
   }
 ]
